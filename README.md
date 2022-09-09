@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Masum Billah Zihadi</h1>
-<h3 align="center">Currently, I continue my bachelor's degree in computer science engineering from American International University-Bangladesh (AIUB). Every day I'm learning, facing new challenges, and giving my best effort for the best output. Love to explore new technologies and I am a passionate learner. My goals are to become cybersecurity experts.Although I am interested in doing research in Robotics and Artificial Intelligence, Networks, Distributed Systems and Security, IoT, and Cyber Security.</h3>
+<h1 align="Left">Hi 👋, I'm Masum Billah Zihadi</h1>
+<h3 align="Left">Currently, I continue my bachelor's degree in computer science engineering from <a href= https://www.aiub.edu>American International University-Bangladesh (AIUB)</a>. Every day I'm learning, facing new challenges, and giving my best effort for the best output. Love to explore new technologies and I am a passionate learner. My goals are to become cybersecurity experts.Although I am interested in doing research in Robotics and Artificial Intelligence, Networks, Distributed Systems and Security, IoT, and Cyber Security.</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/masum billah zihadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masum billah zihadi" height="30" width="40" /></a>
-<a href="https://fb.com/masum billah zihadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="masum billah zihadi" height="30" width="40" /></a>
-<a href="https://instagram.com/masumbillahzihadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masumbillahzihadi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/masumbillahzihadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masum" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100004368227802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="masum billah zihadi" height="30" width="40" /></a>
+<a href="www.instagram.com/weirdiebillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masumbillahzihadi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
