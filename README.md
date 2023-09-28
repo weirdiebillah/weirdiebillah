@@ -1,5 +1,5 @@
 <h1 align="Left">Hi 👋, I'm Masum Billah Zihadi</h1>
-<h3 align="Left">Currently, I pursuing my bachelor's degree in computer science engineering from <a href= https://www.aiub.edu>American International University-Bangladesh (AIUB)</a>. Every day I'm learning, facing new challenges, and giving my best effort for the best output. Love to explore new technologies and I am a passionate learner. My goals are to become cybersecurity experts.Although I am interested in doing research in Robotics and Artificial Intelligence, Networks, Distributed Systems and Security, IoT, and Cyber Security.</h3>
+<h3 align="Left">Currently, I pursuing my bachelor's degree in computer science engineering from  <a href= https://www.aiub.edu>American International University-Bangladesh (AIUB)</a>. Every day I'm learning, facing new challenges, and giving my best effort for the best output. Love to explore new technologies and I am a passionate learner.I am interested in doing research in Robotics and Artificial Intelligence, Networks, Distributed Systems and Security, IoT, and Cyber Security.</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
