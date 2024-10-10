@@ -5,11 +5,11 @@
 <h3 align="left">
   I'm currently pursuing a Bachelor's degree in Computer Science and Engineering at 
   <a href="https://www.aiub.edu">American International University-Bangladesh (AIUB)</a>. 
-  I'm passionate about continuous learning and tackling new challenges in the tech landscape. My interests include Distributed Systems, Security, IoT, and Cybersecurity.
+  I'm passionate about continuous learning and tackling new challenges in the tech landscape. My interests include software development, Distributed Systems, Security, IoT, and Cybersecurity.
 </h3>
 
 ## <img src="img/rocket-joypixels.gif" width="30" height="30"> Currently Exploring:
-- Mern Stack Development 
+- MERN Stack Development 
 - Research
 
 ## <img src="img/fireflame.gif" width="27" height="30"> Let's Connect:
@@ -33,5 +33,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
