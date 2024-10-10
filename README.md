@@ -20,8 +20,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/weirdiebillah)
 
 
-## <img src="img/programming-languages.gif" width="22" height="22"> 🛠️ Technologies & Tools :
-
+## <img src="img/programming-languages.gif" width="22" height="22"> 🛠️ Technologies & Tools
 
 <table>
   <tr>
@@ -72,6 +71,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
+        width="48"
+        height="48"
+        alt="PHP"
+      />
+      <br /><strong>PHP</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
         height="48"
@@ -79,6 +87,17 @@
       />
       <br /><strong>React</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        width="48"
+        height="48"
+        alt="Next.js"
+      />
+      <br /><strong>Next.js</strong>
+    </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
@@ -97,8 +116,15 @@
       />
       <br /><strong>Express</strong>
     </td>
-  </tr>
-  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
+        width="48"
+        height="48"
+        alt="NestJS"
+      />
+      <br /><strong>NestJS</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
@@ -119,48 +145,21 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
+        width="48"
+        height="48"
+        alt="Oracle"
+      />
+      <br /><strong>Oracle</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
         height="48"
         alt="Git"
       />
       <br /><strong>Git</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-        width="48"
-        height="48"
-        alt="Docker"
-      />
-      <br /><strong>Docker</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
-        width="48"
-        height="48"
-        alt="Kubernetes"
-      />
-      <br /><strong>Kubernetes</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-        width="48"
-        height="48"
-        alt="AWS"
-      />
-      <br /><strong>AWS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-        width="48"
-        height="48"
-        alt="Linux"
-      />
-      <br /><strong>Linux</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
