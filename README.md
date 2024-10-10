@@ -117,12 +117,10 @@
       <br /><strong>Express</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
+      <img src="https://docs.nestjs.com/assets/logo-small.svg" 
         width="48"
         height="48"
-        alt="NestJS"
-      />
+        alt="NestJS""/>
       <br /><strong>NestJS</strong>
     </td>
     <td align="center" height="108" width="108">
