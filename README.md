@@ -5,7 +5,7 @@
 <h3 align="left">
   I'm currently pursuing a Bachelor's degree in Computer Science and Engineering at 
   <a href="https://www.aiub.edu">American International University-Bangladesh (AIUB)</a>. 
-  I'm passionate about continuous learning and tackling new challenges in the tech landscape. My interests include Robotics, Artificial Intelligence, Networks, Distributed Systems, Security, IoT, and Cybersecurity.
+  I'm passionate about continuous learning and tackling new challenges in the tech landscape. My interests include Distributed Systems, Security, IoT, and Cybersecurity.
 </h3>
 
 ## <img src="img/rocket-joypixels.gif" width="30" height="30"> Currently Exploring:
