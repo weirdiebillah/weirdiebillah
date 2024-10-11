@@ -78,6 +78,15 @@ However, I keep my skill set expanding and my ears open at what is going on in s
       />
       <br /><strong>C++</strong>
     </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+        width="48"
+        height="48"
+        alt="C#"
+      />
+      <br /><strong>C#</strong>
+    </td>
         <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
@@ -131,6 +140,15 @@ However, I keep my skill set expanding and my ears open at what is going on in s
         height="48"
         alt="NestJS""/>
       <br /><strong>NestJS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+        width="48"
+        height="48"
+        alt="MySQL"
+      />
+      <br /><strong>MySQL</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -194,6 +212,24 @@ However, I keep my skill set expanding and my ears open at what is going on in s
         alt="VS Code"
       />
       <br /><strong>VS Code</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        width="48"
+        height="48"
+        alt="Bootstrap"
+      />
+      <br /><strong>Bootstrap</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        width="48"
+        height="48"
+        alt="Tailwind CSS"
+      />
+      <br /><strong>Tailwind CSS</strong>
     </td>
   </tr>
 </table>
