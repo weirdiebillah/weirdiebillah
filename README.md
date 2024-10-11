@@ -3,18 +3,18 @@
 # <img src="img/wave.gif" width="27" height="27"> Hi there! I'm Masum Billah Zihadi <img src="https://komarev.com/ghpvc/?username=MasumBillah-MB&label=PROFILE+VIEWS&color=blueviolet" alt="Profile views" align="right" />
 
 <h3 align="left">
-  I am currently studying for a Bachelor of Computer Science and Engineering at 
-  <a href="https:American International University Bangladesh (AIUB) With an eye on software development, I thrive in providing optimal, uncomplicated ways to resolve problematic issues. My interests span across various domains of the software industry, including:
+  I am currently studying for a Bachelor of Computer Science and Engineering at <a href="https://www.aiub.edu">American International University-Bangladesh (AIUB)</a>. With an eye on software development, I thrive in providing optimal, uncomplicated ways to resolve problematic issues. My interests span across various domains of the software industry, including:
 
 - Full-stack web development
 - Application architecture in the cloud native space
 - DevSecOps practices
 - Principles of secure software design
-- [Application security and vulnerability assessment](https://www.accenture.com/us-en/contentd Atlantic)
-Distributed systems, and microservices
+- Application security and vulnerability assessment
+- Distributed systems, and microservices
 - IoT and Edge computing emerging technologies.
 
 However, I keep my skill set expanding and my ears open at what is going on in software development and cybersecurity. I want to help work on projects that work to solve real world problems and that care about user privacy and security. I love to tackle new challenges, and I am always willing to work with people that are progressive and want to do great things in the tech world.
+
 </h3>
 
 ## <img src="img/rocket-joypixels.gif" width="30" height="30"> Currently Exploring:
