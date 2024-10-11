@@ -3,7 +3,8 @@
 # <img src="img/wave.gif" width="27" height="27"> Hi there! I'm Masum Billah Zihadi <img src="https://komarev.com/ghpvc/?username=MasumBillah-MB&label=PROFILE+VIEWS&color=blueviolet" alt="Profile views" align="right" />
 
 <h3 align="left">
-  I'm currently pursuing a Bachelor's degree in Computer Science and Engineering at [American International University-Bangladesh (AIUB)](https://www.aiub.edu). As an aspiring software developer, I'm passionate about crafting efficient, scalable, and secure solutions to complex problems. My interests span across various domains of the software industry, including:
+  I'm currently pursuing a Bachelor's degree in Computer Science and Engineering at 
+  <a href="https://www.aiub.edu">American International University-Bangladesh (AIUB)</a>. As an aspiring software developer, I'm passionate about crafting efficient, scalable, and secure solutions to complex problems. My interests span across various domains of the software industry, including:
 
 - Full-stack web development
 - Cloud-native application architecture
