@@ -170,6 +170,24 @@ However, I keep my skill set expanding and my ears open at what is going on in s
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+        width="48"
+        height="48"
+        alt="GitHub"
+      />
+      <br /><strong>GitHub</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+        width="48"
+        height="48"
+        alt="Postman"
+      />
+      <br /><strong>Postman</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
         width="48"
         height="48"
