@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+GitHub+Profile!)](https://github.com/MasumBillah-MB)
 
-# <img src="img/wave.gif" width="27" height="27"> Hi there! I'm Masum Billah Zihadi <img src="https://komarev.com/ghpvc/?username=MasumBillah-MB&label=PROFILE+VIEWS&color=blueviolet" alt="Profile views" align="right" />
+# <img src="img/wave.gif" width="27" height="27"> Hi there! I'm Masum Billah Zihadi <img src="https://komarev.com/ghpvc/?username=MasumBillah-MB&label=PROFILE+VIEWS&color=blueviolet" alt="Profile views" align="left" />
 
 <h3 align="left">
   I am currently studying for a Bachelor of Computer Science and Engineering at <a href="https://www.aiub.edu">American International University-Bangladesh (AIUB)</a>. With an eye on software development, I thrive in providing optimal, uncomplicated ways to resolve problematic issues. My interests span across various domains of the software industry, including:
